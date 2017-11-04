@@ -1,0 +1,13 @@
+{
+	"name": "domjudge/domjudge",
+	"description": "DOMjudge Programming Contest Control System",
+	"homepage": "https://www.domjudge.org",
+	"license": "GPL-2.0+",
+	"require": {
+		"php": ">= 5.4",
+		"ext-mbstring": "*",
+		"ext-mysqli": "*",
+		"ext-json": "*",
+		"ext-curl": "*"
+	}
+}
